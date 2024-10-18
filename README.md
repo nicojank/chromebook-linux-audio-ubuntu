@@ -14,17 +14,5 @@
 # Supported Devices
 See the [Chrultrabook docs](https://docs.chrultrabook.com/docs/firmware/supported-devices.html) for more info.
 
-# Officially Supported Distros
-1. Arch Linux
-2. Fedora 39/40
-3. PopOS
-4. Debian 12
-5. Linux Mint Debian Edition (LMDE)
-6. OpenSUSE
-7. Void Linux
-
-# Ubuntu
-If you want the best experience, don't use Ubuntu. If you run into any issues, you are on your own.
-
-# Other Distros
-Other distros will likely work but will require you to manually install packages.
+#Ubuntu Support
+i will be working on adding support to ubuntu eventually until then ignore thos script and go to the orginal script.
