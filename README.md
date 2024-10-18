@@ -1,4 +1,4 @@
-<h1 align="center">PRE_ALPHA! Python script to enable audio support on Chrome devices PRE-ALPHA</h1>
+<h1 align="center">PRE_ALPHA! Python script to enable audio support on Chrome devices running Ubuntu 24.10 PRE-ALPHA</h1>
 
 <h4 align="center">Note: A full install of a supported Linux distro is required! Live USB sessions will not work.</h4>
 <h4 align="center">Note:This new script has only been tested on Ubuntu 24.10 and is NOT guarenteed to work on Ubuntu at all
