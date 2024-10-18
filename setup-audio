@@ -328,8 +328,6 @@ if __name__ == "__main__":
          cpfile("conf/common/51-increase-headroom.conf", "/etc/wireplumber/wireplumber.conf.d/51-increase-headroom.conf")
          
 
-    # ubuntu moment :skull:
-    if distro.lower().__contains__("ubuntu_codename") and not distro.lower().__contains__("pop"):
-        ubuntu()
+   
 
-    print_header("Audio installed successfully! Reboot to finish setup.")
+    print_header("Audio driver installed successfully! Reboot to finish setup.")
