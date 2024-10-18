@@ -47,7 +47,7 @@ def install_ucm():
 
 
 def ubuntu():
-    print_error("WARNING: UBUNTU SUPPORT IS EXPIREMENTAL. USE THE OLDER SCRIPT FOR OTHER DISTROS")
+    print("WARNING: UBUNTU SUPPORT IS EXPIREMENTAL. USE THE OLDER SCRIPT FOR OTHER DISTROS")
    
 
 def install_deb_kernel():
