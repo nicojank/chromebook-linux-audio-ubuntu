@@ -3,9 +3,10 @@
 <h4 align="center">Note: A full install of a supported Linux distro is required! Live USB sessions will not work.</h4>
 
 # Instructions
-1.     git clone https://github.com/nicojank/chromebook-linux-audio-ubuntu
-2.     cd chromebook-linux-audio-ubuntu
-3.     ./setup-audio
+1.     sudo apt install git python3
+2.     git clone https://github.com/nicojank/chromebook-linux-audio-ubuntu
+3.     cd chromebook-linux-audio-ubuntu
+4.     ./setup-audio
 
 # Requirements
 1. `python 3.10`
